@@ -5,11 +5,6 @@ You have `n` number of locked boxes in front of you. Each box is numbered sequen
 
 Write a method that determines if all the boxes can be opened.
 
-### Prototype
-```python
-def canUnlockAll(boxes)
-
-
 ## Input
 - boxes is a list of lists.
 
@@ -21,3 +16,8 @@ def canUnlockAll(boxes)
 
 ## Output
 - Return True if all boxes can be opened, else return False.
+
+### Prototype
+```python
+def canUnlockAll(boxes)
+
